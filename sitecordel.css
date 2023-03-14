@@ -97,13 +97,13 @@ header > p {
 
  
 section#img01 {
-    background-image: url('/background001.jpg');
+    background-image: url('https://github.com/fabriciomeira03/Projeto-01/blob/68ebb7747f78c8e90c562a395b3b1aa4b2cb6db3/background001.jpg');
     background-position: right center;
     background-size: cover;
  }        
  
 section#img02 {
-    background-image: url('/background002.jpg'); 
+    background-image: url('https://github.com/fabriciomeira03/Projeto-01/blob/68ebb7747f78c8e90c562a395b3b1aa4b2cb6db3/background002.jpg'); 
  }
 
 
